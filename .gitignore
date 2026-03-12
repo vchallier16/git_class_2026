@@ -1,0 +1,4 @@
+open-in-browser.*
+*.swp
+*~
+.DS_Store
