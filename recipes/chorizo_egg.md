@@ -4,7 +4,7 @@
 ## About
 Scrambled eggs with chorizo served with a stack of hot tortillas.
 
-![Image of Chorizo and Eggs](recipes/chorizo_egg.jpg)
+![image.jpg](https://www.foodista.com/sites/default/files/eggs_0.jpg)
 
 ## Ingredients:
 - 8 eggs
