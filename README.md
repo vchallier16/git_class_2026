@@ -8,4 +8,5 @@ Git is mind blowing
 
 *This a line modified locally* 
 
-![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3andqMWw3cXpqZDl5b2YwMmthcXM0Z2E5aDUwdzFnd3pybm1lZmx0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ged1Er0MEPBMfwOSrk/giphy.gif)
+New GIF added on GitHub
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTd0YWNkOTI0dzR0cHQyM3BnNTE4eXlrODcwMWdqbHBhZHdpano0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4KF8EdNFw6oNsgle3n/giphy.gif)
